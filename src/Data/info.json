@@ -1,0 +1,32 @@
+{
+    "5000.json":{
+        "mu": 24.25,
+        "sigma": 0.3,
+        "signal coeff": 17
+    },
+    "10000.json":{
+        "mu": 23.25,
+        "sigma": 0.3,
+        "signal coeff": 17
+    },
+    "50000.json":{
+        "mu": 24.25,
+        "sigma": 0.3,
+        "signal coeff": 17  
+    },
+    "100000.json":{
+        "mu": 20,
+        "sigma": 0.3,
+        "signal coeff": 17
+       },
+    "400000.json":{
+        "mu": 18,
+        "sigma": 0.3,
+        "signal coeff": 17
+    },
+    "1000000.json":{
+        "mu": 16.9,
+        "sigma": 0.3,
+        "signal coeff": 17
+    }
+}
