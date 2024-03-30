@@ -1,4 +1,6 @@
 # size-exclusion-chromatograph-simulator
-pip install tkinter
-pip install matplotlib
+## Installation
+1. pip install tkinter
+2. pip install matplotlib
+## Usage
 python3 main.py
